@@ -1,0 +1,12 @@
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Business.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Business.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Entities.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Repositories.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\EntityFramework.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Entities.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Repositories.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Repositories.dll.config
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\bin\Release\EntityFramework.xml
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\obj\Release\ProjectManager.BL.csprojResolveAssemblyReference.cache
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\obj\Release\ProjectManager.Business.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Business\obj\Release\ProjectManager.Business.pdb

@@ -1,0 +1,12 @@
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\ProjectManager.Repositories.dll.config
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\ProjectManager.Repositories.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\ProjectManager.Repositories.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\EntityFramework.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\EntityFramework.SqlServer.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\ProjectManager.Entities.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\ProjectManager.Entities.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\EntityFramework.xml
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\bin\Release\EntityFramework.SqlServer.xml
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\obj\Release\ProjectManager.DAO.csprojResolveAssemblyReference.cache
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\obj\Release\ProjectManager.Repositories.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Repositories\obj\Release\ProjectManager.Repositories.pdb

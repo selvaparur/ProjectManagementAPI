@@ -1,0 +1,13 @@
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Business.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Business.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Entities.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Infrastructure.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Repositories.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\EntityFramework.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Entities.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Infrastructure.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\ProjectManager.Repositories.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\bin\Debug\EntityFramework.xml
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\obj\Debug\ProjectManager.Business.csprojResolveAssemblyReference.cache
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\obj\Debug\ProjectManager.Business.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business\obj\Debug\ProjectManager.Business.pdb

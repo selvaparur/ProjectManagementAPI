@@ -1,0 +1,5 @@
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Infrastructure\bin\Debug\ProjectManager.Infrastructure.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Infrastructure\bin\Debug\ProjectManager.Infrastructure.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Infrastructure\obj\Debug\ProjectManager.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Infrastructure\obj\Debug\ProjectManager.Infrastructure.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Infrastructure\obj\Debug\ProjectManager.Infrastructure.pdb

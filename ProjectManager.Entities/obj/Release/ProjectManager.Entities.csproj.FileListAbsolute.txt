@@ -1,0 +1,5 @@
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\bin\Release\ProjectManager.Entities.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\bin\Release\ProjectManager.Entities.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Release\ProjectManager.Entities.csprojResolveAssemblyReference.cache
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Release\ProjectManager.Entities.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Release\ProjectManager.Entities.pdb

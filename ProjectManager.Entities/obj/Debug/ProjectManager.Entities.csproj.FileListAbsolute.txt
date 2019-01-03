@@ -1,0 +1,13 @@
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Entities\bin\Debug\ProjectManager.Entities.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Entities\bin\Debug\ProjectManager.Entities.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.csprojResolveAssemblyReference.cache
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.pdb
+C:\Work\RDPFSE\FSE\Final\Code\ProjectManagerAPI\ProjectManager.Entities\bin\Debug\ProjectManager.Entities.dll
+C:\Work\RDPFSE\FSE\Final\Code\ProjectManagerAPI\ProjectManager.Entities\bin\Debug\ProjectManager.Entities.pdb
+C:\Work\RDPFSE\FSE\Final\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.dll
+C:\Work\RDPFSE\FSE\Final\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\bin\Debug\ProjectManager.Entities.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\bin\Debug\ProjectManager.Entities.pdb
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.dll
+C:\Selva\Code\ProjectManagerAPI\ProjectManager.Entities\obj\Debug\ProjectManager.Entities.pdb

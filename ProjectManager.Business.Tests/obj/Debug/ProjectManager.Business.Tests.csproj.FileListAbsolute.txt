@@ -1,0 +1,11 @@
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\ProjectManager.Business.Tests.dll.config
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\ProjectManager.Business.Tests.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\ProjectManager.Business.Tests.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\NBench.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\ProjectManager.Infrastructure.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\StructureMap.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\ProjectManager.Infrastructure.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\bin\Debug\StructureMap.xml
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\obj\Debug\ProjectManager.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\obj\Debug\ProjectManager.Business.Tests.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Business.Tests\obj\Debug\ProjectManager.Business.Tests.pdb

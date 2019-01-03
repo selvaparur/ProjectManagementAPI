@@ -1,0 +1,16 @@
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Repositories.dll.config
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Repositories.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Repositories.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\EntityFramework.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Entities.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Infrastructure.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Entities.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\ProjectManager.Infrastructure.pdb
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\EntityFramework.xml
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\obj\Debug\ProjectManager.Repositories.csprojResolveAssemblyReference.cache
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\obj\Debug\ProjectManager.Repositories.Migrations.AddPriorityToTask.resources
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\obj\Debug\ProjectManager.Repositories.csproj.GenerateResource.Cache
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\obj\Debug\ProjectManager.Repositories.dll
+C:\Work\RDPFSE\FSE\Final\jesu\ProjectManagerServices\ProjectManager.Repositories\obj\Debug\ProjectManager.Repositories.pdb
